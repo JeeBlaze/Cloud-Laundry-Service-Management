@@ -1,0 +1,6 @@
+{
+  "name": "Cloud Laundry - Service Management System",
+  "description": "Enterprise cloud-based laundry service management platform for multi-branch operations, doorstep pickup and delivery, garment lifecycle tracking, POS invoicing, and customer care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
